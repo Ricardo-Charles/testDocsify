@@ -647,3 +647,7 @@ on a.SId=b.SId
 ```sql
 url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
 ```
+
+
+
+![image-20220607213125756](assets/image-20220607213125756.png)
