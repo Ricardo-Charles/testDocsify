@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](MySQL.md)
+* [MySQL](MySQL.md)
